@@ -1,1 +1,1 @@
-# Coronavirus
+# This small database collects alternative names for 'coronavirus' in different languages. It's based on insightful responses of numerous members of the LingTyp mailing list. Many thanks to everyone for their contribution! All errors and misinterpretations are my responsibility. Please let me know if anything is incorrect or no longer relevant. I'll also be very grateful for suggestions of new entries!
