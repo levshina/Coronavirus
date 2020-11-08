@@ -1,0 +1,22 @@
+Language	Lect	Concept	Forms	Notes	Source
+Bengali	NA	CORONAVIRUS & CO	corona	Corona in Bangla is homophonous with "Koro-na"   do-NEG. A joke on Facebook:  If you have a Bengali girlfriend and she says: "Corona". You will never know whether she meant the virus or was she asking you not to do (it). Not to do it here means not to be intimate. In both cases, you are expected to be physically distant.	Bornini Lahiri
+Chinese	Mainland	CORONAVIRUS & CO	xin-guan ("new-crown")	From 'xin-xing guan-zhuang (bingdu)' (new-type crown-shape (virus)); Used occasionally instead of the full form	Jeremy Tang, Danquing Liu
+Chinese	Taiwan	CORONAVIRUS & CO	Xinguang ("new-light")		Steven Schaufele
+Danish	NA	CORONAVIRUS & CO	coronaen  "the corona"		Hans Götzsche;  Lidia Mazzitelli
+English	Australia	CORONAVIRUS & CO	rona, rona, COVID	Probably, younger circles. The abbreviaton 'rona is unusual because the initial syllable is seldom elided. Probably, due to stress on the second syllable of 'corona'. However, rona is not used in all circles. Some speakers are unaware of this shortening. Miss Rona is socially indexed to black, gay, and drag subcultures: https://twitter.com/search?q=miss%20rona&src=typed_query 	Maïa Ponsonnet, Peter Bakker, Peter Austin and many others
+English	African American	CORONAVIRUS & CO	rona, rona	Sometimes (originally) jokingly	Savithry Namboodiripad
+English	USA (New Haven)	CORONAVIRUS & CO	COVID, COVID, CV, 'rona		Claire Bowern
+English	Singapore	CORONAVIRUS & CO	SARS	Shortening of SARS-2, due to the SARS epidemic in 2003	Randy LaPolla
+English	USA (Washington)	CORONAVIRUS & CO	corvid, clovis	accommodation to familiar words (a corvid is a crow)	David Robertson
+English	YouTube	CORONAVIRUS & CO	CV, CV-19		Tianqiao Lu
+French	NA	CORONAVIRUS & CO	covid		Maïa Ponsonnet
+German	Switzerland, informal	CORONAVIRUS & CO	corona	Covid-19 in news reports and other formal contexts	Fridolin Magic
+Hebrew	NA	CORONAVIRUS & CO	korona	used for the virus, pandemic and the period; predominantly even in high-quality newspapers; coronavirus is usually negif ha-korona; corona+virus is avoided due to head-initial NP-internal syntax	Eitan Grossmann; David Gil
+Indonesian	NA	CORONAVIRUS & CO	korona	used for the virus, pandemic and the period; corona+virus is avoided due to head-initial NP-internal syntax	David Gil
+Italian	formal	CORONAVIRUS & CO	covid	in compounds like “centro covid, ospedale covid” (covid center, covid hospita); corona means "crown"; informal speech: coronavirus; “Luigi ha il coronavirus” “Luigi has coronavirus”, “a causa del coronavirus sono stati persi molti posti di lavoro” “because of the coronavirus many jobs have been lost”	Hartmut Haberland; Lidia Mazzitelli
+Malayalam	spoken	CORONAVIRUS & CO	corona	covid is used in written and formal contexts	Savithry Namboodiripad
+Portuguese	Brazil	CORONAVIRUS & CO	coronga	humorous; coronga vírus; coronga is a species of fish	Ernei Ribeiro
+Romanian	NA	CORONAVIRUS & CO	corona	No other general meaning	Ion Giurgea
+Russian	NA	CORONAVIRUS & CO	kovid	korona means "crown"	Peter Arkadiev
+Spanish	colloquial	CORONAVIRUS & CO	corona (masculine)	The speakers are aware of homonymy with la corona (the Crown, also for monarchy). A source of jokes.	Miren Lourdes Oñederra Olaizola
+Swedish	colloquial	CORONAVIRUS & CO	corona	only for virus, not for pandemic; many compounds	Aleksandrs Berdicevskis; Maria Koptjevskaja-Tamm
