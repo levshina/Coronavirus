@@ -1,0 +1,22 @@
+Language	Lect	Forms	Language_change	Notes	Source
+Bengali	NA	corona	NA	"Corona" in Bangla is homophonous with "Koro-na"   do-NEG. A joke on Facebook:  If you have a Bengali girlfriend and she says: "Corona". You will never know whether she meant the virus or was she asking you not to do (it). Not to do it here means not to be intimate. In both cases, you are expected to be physically distant.	Bornini Lahiri
+Chinese	Mainland	xin-guan ("new-crown")	NA	From "xin-xing guan-zhuang (bingdu)" "new-type crown-shape (virus))".  Used occasionally instead of the full form	Jeremy Tang, Danquing Liu
+Chinese	Taiwan	Xinguang ("new-light")	NA	NA	Steven Schaufele
+Danish	NA	coronaen  "the corona"	NA	NA	Hans Götzsche;  Lidia Mazzitelli
+English	Australia	rona, rona, COVID	NA	Probably, younger circles. The abbreviaton 'rona is unusual because the initial syllable is seldom elided. Probably, due to stress on the second syllable of 'corona'. However, rona is not used in all circles. Some speakers are unaware of this shortening. Miss Rona is socially indexed to black, gay, and drag subcultures: https://twitter.com/search?q=miss%20rona&src=typed_query 	Maïa Ponsonnet, Peter Bakker, Peter Austin and many others
+English	African American	rona, rona	NA	Sometimes (originally) jokingly	Savithry Namboodiripad
+English	USA (New Haven)	COVID, COVID, CV, 'rona	NA	NA	Claire Bowern
+English	Singapore	SARS	NA	Shortening of SARS-2, due to the SARS epidemic in 2003	Randy LaPolla
+English	USA (Washington)	corvid, clovis	NA	Accommodation to familiar words (a corvid is a crow)	David Robertson
+English	YouTube	CV, CV-19	NA	NA	Tianqiao Lu
+French	NA	covid	NA	NA	Maïa Ponsonnet
+German	Switzerland, informal	corona	NA	Covid-19 in news reports and other formal contexts	Fridolin Magic
+Hebrew	NA	korona	NA	used for the virus, pandemic and the period; predominantly even in high-quality newspapers; "coronavirus" is usually "negif ha-korona"; "corona+virus" is avoided due to head-initial NP-internal syntax	Eitan Grossmann; David Gil
+Indonesian	NA	korona	NA	used for the virus, pandemic and the period; "corona+virus" is avoided due to head-initial NP-internal syntax	David Gil
+Italian	formal, spring 2020	covid	"covid" was first (spring 2020) used in compounds like “centro covid, ospedale covid” ("covid center", "covid hospita").  In spring 2020 informal speech in spring 2020 preferred "coronavirus", “Luigi ha il coronavirus” “Luigi has coronavirus”, “a causa del coronavirus sono stati persi molti posti di lavoro” “because of the coronavirus many jobs have been lost”. In autumn 2020, "covid" is the preferred variant.	 corona means "crown"	Hartmut Haberland; Lidia Mazzitelli; Silvia Luraghi
+Malayalam	spoken	corona	NA	"covid" is used in written and formal contexts	Savithry Namboodiripad
+Portuguese	Brazil	coronga	NA	humorous; from "coronga vírus"; "coronga" is a species of fish	Ernei Ribeiro
+Romanian	NA	corona	NA	No other general meaning	Ion Giurgea
+Russian	NA	kovid	NA	"korona" means "crown"	Peter Arkadiev
+Spanish	colloquial	corona (masculine)	NA	The speakers are aware of homonymy with "la corona" ("the Crown", also for monarchy). A source of jokes.	Miren Lourdes Oñederra Olaizola
+Swedish	colloquial	corona	NA	only for virus, not for pandemic; many compounds	Aleksandrs Berdicevskis; Maria Koptjevskaja-Tamm
